@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "ravindra singh mauni",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
